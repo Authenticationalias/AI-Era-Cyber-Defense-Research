@@ -2,6 +2,8 @@
 
 A public working notebook and shared knowledge base about cyber defense in AI-enabled environments.
 
+Research areas include **AI security, autonomous cyber defense, defensive automation, evidence provenance, threat intelligence, cyber defense measurement, bounded authorization, and cyber resilience**.
+
 The main question is simple:
 
 > **What is defense in the AI era?**
@@ -48,6 +50,15 @@ The project also distinguishes:
 - inherited security foundations;
 - processes that AI mainly accelerates;
 - pressures shaped more specifically by AI agents, tool use, context, memory, credentials, probabilistic outputs, and persistent feedback loops.
+
+## Open questions
+
+Examples of questions that may be useful entry points for outside input:
+
+- How should evidence independence be measured when multiple telemetry sources share upstream dependencies?
+- Which defensive actions should remain human-authorized when an AI system can generate new actions beyond fixed playbooks?
+- How much attack-relevant knowledge can be reconstructed by joining public artifacts, and how should that reconstruction gain be measured?
+- Which assumptions in the general model break first in low-telemetry, low-budget, or high-availability environments?
 
 ## A working research question: adversarial knowledge reconstruction
 
